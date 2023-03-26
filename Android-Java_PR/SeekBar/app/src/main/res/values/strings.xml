@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SeekBar</string>
+    <string name="msg">レベルを設定してください</string>
+    <string name="level">レベル:</string>
+    <string name="touch">レベル設定中...</string>
+</resources>

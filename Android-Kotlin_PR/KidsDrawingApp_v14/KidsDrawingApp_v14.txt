@@ -1,0 +1,3 @@
+In this version we have done the following steps as below :
+
+1. We have added a sharing feature that is when the image is downloaded in the storage it will be available to share. 
